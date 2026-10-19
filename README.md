@@ -165,7 +165,7 @@ Example questions it can answer:
 **Youssef Waled**
 
 - GitHub: [@youssefWaled12](https://github.com/youssefWaled12)
-- LinkedIn: _add your profile link here_
+- LinkedIn: www.linkedin.com/in/youssef-waled-bb6888366
 
 ---
 
