@@ -53,7 +53,7 @@ This project covers the full data engineering workflow:
 
 ## ⭐ Data Model (Gold Layer)
 
-![Star Schema](docs/data_model.png)
+![Star Schema](docs/data model.png)
 
 ### `gold.fact_sales`
 Transactional sales data. **Sales = Quantity × Price**
